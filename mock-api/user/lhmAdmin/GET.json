@@ -1,0 +1,5 @@
+{"id":0,
+"username":"lhmAdmin",
+"email":null,
+"roles":["ROLE_LHM_ADMIN"],
+"accessToken":"demo=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJsaG1BZG1pbiIsImlhdCI6MTcxNzQ1MTM0MiwiZXhwIjoxNzE3NTM3NzQyfQ.yKJXnpOZIb3vo0ErpSO-ktSACmaPO1nMAyO7EYn9TVMEw6MChW2dqBSH2jAcxodld2B2Ta_r0Xe6KzmkbGOyEQ; Path=/api; Max-Age=86400; Expires=Tue, 04 Jun 2024 21:49:02 GMT; HttpOnly"}

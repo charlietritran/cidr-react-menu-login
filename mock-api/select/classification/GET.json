@@ -1,0 +1,6 @@
+[
+    {"key":"U", "name":"Unclassified"},
+    {"key":"S", "name":"SECRET"},
+    {"key":"TS", "name":"TOP SECRET"},
+    {"key":"C", "name":"CLEARANCE"}
+]

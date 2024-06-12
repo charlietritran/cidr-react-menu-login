@@ -1,0 +1,7 @@
+{"id":0,
+"username":"cidrAdmin",
+"email":null,
+"roles":["ROLE_CIDR_ADMIN"],
+"accessToken":"demo=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaWRyQWRtaW4iLCJpYXQiOjE3MTc0NTIzNDEsImV4cCI6MTcxNzUzODc0MX0.vqwFd6UwSZqPi9Xly4ZHZ86_PjCw-NAk_AAJTJvxnqsmf8ApcrgTUhLrqnfsXoFOMAc509gBT7VEzys41oy8GA; Path=/api; Max-Age=86400; Expires=Tue, 04 Jun 2024 22:05:41 GMT; HttpOnly"}
+
+
